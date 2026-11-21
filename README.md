@@ -39,4 +39,4 @@ Manufacturer safety restrictions apply. Bench work, configuration changes and fl
 sha256sum -c SHA256SUMS
 ```
 
-Questions go to the scoring desk.
+Have a question? Feel free to ask one of the organizers.

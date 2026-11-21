@@ -108,6 +108,7 @@ The link to the APB is then MAVLink 2 on `/dev/ttymxc2` at 230400 baud. ArduCopt
 - At the start of a session, **declare the items you claim**. The judge tests only those. You get 2 tries per item.
 - **Passed items are banked.** A later failure does not remove them.
 - **You may fly when D and E are banked.** Each team gets **2 scored flights**.
+- **Test everything with props off before you ask for outdoor flight time**, development or scored. Pilot time is limited, and safety comes first.
 - Area F is scored at the presentations.
 
 | Area | Item | Where | Points |
@@ -159,7 +160,7 @@ GPS stays connected for drift measurement. You may use GNSS before you engage, f
 ## Before take-off
 
 1. The crew checks the FC firmware identity: Orqa Betaflight 2025.12.5, or ArduCopter 4.7.2 fb773567 from the Stage 2 files. **Modified FC firmware voids the flight.** The crew also checks the FC log space.
-2. You confirm that your solution is running and sending. The pilot does not engage without this confirmation.
+2. You confirm that you tested your full solution with props off, and that it is running and sending now. The pilot does not engage without this confirmation.
 
 ## In the air
 
@@ -238,7 +239,7 @@ Betaflight 2025.12.5 with MSP OVERRIDE, or ArduCopter 4.7.2 with MAVLink (sectio
 ICM-42605 up to 4 kHz and DPS310 on the APB. A second IMU and barometer on the FC, through MSP or MAVLink. No rangefinder.
 
 **Practice data and flight time**
-No simulator and no dataset. Practise on your own aircraft. Ask the flight crew for development flights; scored flights have priority.
+No simulator and no dataset. Practise on your own aircraft. Ask the flight crew for development flights only after full props-off testing; scored flights have priority.
 
 **Site, aircraft access and damage**
 The flight lead announces the site and the last flight time at check-in. You receive your aircraft at check-in. The event team confirms the equipment-handling and damage arrangements at handover.

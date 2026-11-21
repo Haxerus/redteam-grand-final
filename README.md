@@ -25,6 +25,8 @@ This repository is the Stage 2 download for the Contested Battlefield Aerial Ope
 
 ## Safety
 
+**Test everything with props off before you ask for outdoor flight time.** This applies to development and scored flights. Pilot time is limited, and safety comes first.
+
 The Betaflight FC has no command timeout. While the engage switch is on, it keeps your last command until the pilot switches off. Read Stage 2, section 03, before you connect to the FC.
 
 Manufacturer safety restrictions apply. Bench work, configuration changes and flights follow the event procedures and the instructions of the flight crew.
